@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0d0fe0c6.css",
+    "main.js": "/static/js/main.579f041f.js",
+    "static/media/jobstack Project.png": "/static/media/jobstack Project.e6606fd1488eb0abc1fc.png",
+    "static/media/Rasif Taghizade Resume.pdf": "/static/media/Rasif Taghizade Resume.6405eae8af5abe173880.pdf",
+    "static/media/me_png1.jpg": "/static/media/me_png1.4e10330a0df4e81dda17.jpg",
+    "static/media/Job Search Project.png": "/static/media/Job Search Project.15eda7bfb6bb02f2f2c9.png",
+    "index.html": "/index.html",
+    "main.0d0fe0c6.css.map": "/static/css/main.0d0fe0c6.css.map",
+    "main.579f041f.js.map": "/static/js/main.579f041f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d0fe0c6.css",
+    "static/js/main.579f041f.js"
+  ]
+}
