@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.7de2ccd9.css",
-    "main.js": "/static/js/main.57d3acb0.js",
+    "main.css": "/static/css/main.a2951de7.css",
+    "main.js": "/static/js/main.c20a21e5.js",
     "static/media/resume.pdf": "/static/media/resume.5c6f5094bcae161f64cc.pdf",
-    "static/media/jobstack Project.png": "/static/media/jobstack Project.e6606fd1488eb0abc1fc.png",
+    "static/media/Travel.png": "/static/media/Travel.0d9bb5099c26ecfaa7d5.png",
+    "static/media/PORTFOLIO.png": "/static/media/PORTFOLIO.1c7d05b641128b0f162c.png",
     "static/media/me_png1.jpg": "/static/media/me_png1.4e10330a0df4e81dda17.jpg",
-    "static/media/Job Search Project.png": "/static/media/Job Search Project.15eda7bfb6bb02f2f2c9.png",
     "index.html": "/index.html",
-    "main.7de2ccd9.css.map": "/static/css/main.7de2ccd9.css.map",
-    "main.57d3acb0.js.map": "/static/js/main.57d3acb0.js.map"
+    "main.a2951de7.css.map": "/static/css/main.a2951de7.css.map",
+    "main.c20a21e5.js.map": "/static/js/main.c20a21e5.js.map"
   },
   "entrypoints": [
-    "static/css/main.7de2ccd9.css",
-    "static/js/main.57d3acb0.js"
+    "static/css/main.a2951de7.css",
+    "static/js/main.c20a21e5.js"
   ]
 }
